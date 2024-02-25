@@ -1,0 +1,12 @@
+.display{
+  width :100%;
+  height: 50px;
+  border: 2px solid black;
+  text-decoration: none;
+  text-align:end;
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button{
+  -webkit-appearance: none;
+}

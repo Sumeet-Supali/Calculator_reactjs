@@ -1,0 +1,19 @@
+.buttonbox{
+  padding: 12px 12px;
+}
+
+.eachbtn{
+  font-size: large;
+  margin: 8px;
+  padding: 3px 16px;
+  border-radius: 6px;
+  border: 1px solid rgb(199, 159, 167);
+  transition: 0.8s ease;
+}
+
+.eachbtn:hover{
+  color: rgb(199, 159, 167);;
+  background-color: black;
+}
+
+
